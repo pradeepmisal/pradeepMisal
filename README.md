@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pradeep Misal</h1>
-<h3 align="center">A Passionate computer engineering student with a keen interest in emerging technologies, specifically focused on augmented reality, artificial intelligence, and deep learning.</h3>
+<h3 align="center">A Passionate computer engineering student with a keen interest in emerging technologies, specifically focused on augmented reality and artificial intelligence.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
 - 🔭 I’m currently working on **Augmented reality**
