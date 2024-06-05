@@ -2,13 +2,9 @@
 <h3 align="center">A Passionate computer engineering student with a keen interest in emerging technologies, specifically focused on Mern stack and artificial intelligence.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- 🔭 I’m currently working on **Mern Stack**
+- 🌱 I’m currently learning **Mern Stack**
 
-- 🌱 I’m currently learning **New Tech Stack**
-
-- 👯 I’m looking to collaborate on **Computer vision**
-
-- 🤝 I’m looking for help with **AI**
+- 👯 I’m looking to collaborate on **Industry Projects**
 
 - 📫 How to reach me **pradeepmisal698@gmail.com**
 
