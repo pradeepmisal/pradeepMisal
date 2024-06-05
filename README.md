@@ -2,9 +2,9 @@
 <h3 align="center">A Passionate computer engineering student with a keen interest in emerging technologies, specifically focused on augmented reality and artificial intelligence.</h3>
 <img align="right" alt="coding" width="400" src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif">
 
-- 🔭 I’m currently working on **Augmented reality**
+- 🔭 I’m currently working on **Mern Stack**
 
-- 🌱 I’m currently learning **NLP api integration deep learning and Android studio**
+- 🌱 I’m currently learning **New Tech Stack**
 
 - 👯 I’m looking to collaborate on **Computer vision**
 
