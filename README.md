@@ -1,12 +1,16 @@
 <h1 align="center">Hi 👋, I'm Pradeep Misal</h1>
 <h3 align="center">A Passionate Computer Engineering Student with a Keen Interest in Emerging Technologies</h3>
 
-<img align="center" alt="coding" width="600" src="https://cdn.dribbble.com/users/730703/screenshots/6581243/avento.gif">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=5000&random=false&width=950&lines=Turning+complex+problems+into+elegant+solutions%E2%80%94one+line+of+code+at+a+time.)](https://git.io/typing-svg)
 
 ## Connect with me on:
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-misal-87403b1b3/)
+## 🏆 Hackathon Achievements:
+
+
+[![Hackathon Wins](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFA500&width=1000&lines=🥇+6x+National+Hackathon+Winner;🌍+1x+International+Hackathon+Victory)](https://github.com/pradeepmisal07)
+
 
 ## Tech Stack:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
