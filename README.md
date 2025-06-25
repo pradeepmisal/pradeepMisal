@@ -8,8 +8,12 @@
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/pradeep-misal-87403b1b3/)
 ## 🏆 Hackathon Achievements:
 
+<p align="center">
+  <img src="https://img.shields.io/badge/🥇%206x%20National%20Hackathon%20Winner-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/🌍%201x%20International%20Hackathon%20Victory-blue?style=for-the-badge" />
+</p>
 
-[![Hackathon Wins](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=FFA500&width=1000&lines=🥇+6x+National+Hackathon+Winner;🌍+1x+International+Hackathon+Victory)](https://github.com/pradeepmisal07)
+
 
 
 ## Tech Stack:
