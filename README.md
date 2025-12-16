@@ -2,7 +2,7 @@
 <h3 align="center">A Passionate Computer Engineering Student with a Keen Interest in Emerging Technologies</h3>
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Source+Code+Pro&pause=5000&random=false&width=950&lines=Crafting+intelligent,+scalable+solutions+using+the+power+of+code+and+AI)](https://git.io/typing-svg)
+
 
 
 ## Connect with me on:
