@@ -29,7 +29,6 @@
 ![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
 ![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
 
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
@@ -37,7 +36,6 @@
 ### 🧠 Generative AI & Agentic Workflow Skills:
 ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-FFB13B?style=for-the-badge)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFDC5E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Agentic Workflow](https://img.shields.io/badge/Agentic_Workflow-%2300a6ff.svg?style=for-the-badge)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeepmisal&show_icons=true&theme=dark)
