@@ -54,7 +54,6 @@
 </p>
 
 
-[![Pradeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeepmisal&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=pradeepmisal&icon=2&color=1)](https://visitcount.itsvg.in)
