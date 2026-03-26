@@ -1,7 +1,4 @@
 <h1 align="center">Hi 👋, I'm Pradeep Misal</h1>
-<h3 align="center">A Passionate Computer Engineering Student with a Keen Interest in Emerging Technologies</h3>
-
-
 
 
 
@@ -10,37 +7,52 @@
 ## 🏆 Hackathon Achievements:
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🥇%206x%20National%20Hackathon%20Winner-orange?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/🌍%201x%20International%20Hackathon%20Victory-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/6x%20National%20Hackathon%20Winner-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/1x%20International%20Hackathon%20Victory-blue?style=for-the-badge" />
 </p>
 
+<br>
+
+<table align="center">
+  <tr>
+    <th>Achievement / Title</th>
+    <th>Details</th>
+  </tr>
+  <tr>
+    <td>International Winner</td>
+    <td>Openserv Hackathon 2025</td>
+  </tr>
+  <tr>
+    <td>Winner</td>
+    <td>InnovateYou Techathon 2024</td>
+  </tr>
+  <tr>
+    <td>Winner</td>
+    <td>KnowCode Hackathon 2024</td>
+  </tr>
+  <tr>
+    <td>Winner</td>
+    <td>medecro.ai Hackathon 2024</td>
+  </tr>
+  <tr>
+    <td>Winner</td>
+    <td>InnovateYou Techathon 2025</td>
+  </tr>
+  <tr>
+    <td>Winner</td>
+    <td>HackCelestial 2024</td>
+  </tr>
+  <tr>
+    <td>Winner</td>
+    <td>PanIIT Hackathon 2025</td>
+  </tr>
+</table>
 
 
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=pradeepmisal&theme=dark" />
+</p>
 
-## Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-
-![React](https://img.shields.io/badge/React-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express-%23000000.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Unity](https://img.shields.io/badge/Unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white)
-
-### 🧠 Generative AI & Agentic Workflow Skills:
-![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-FFB13B?style=for-the-badge)
-![Agentic Workflow](https://img.shields.io/badge/Agentic_Workflow-%2300a6ff.svg?style=for-the-badge)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=pradeepmisal&show_icons=true&theme=dark)
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=pradeepmisal&theme=dark)](https://git.io/streak-stats)
 
 [![Pradeep's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=pradeepmisal&theme=github-compact)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
